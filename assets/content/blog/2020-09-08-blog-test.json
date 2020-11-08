@@ -2,5 +2,5 @@
   "title": "Fuch",
   "date": "2020-09-08T06:00:00.000Z",
   "description": "Photographe de rue",
-  "body": "[![Video](http://img.youtube.com/vi/gFQhuULUDQc/0.jpg)](http://www.youtube.com/watch?v=gFQhuULUDQc)\n\n\n<iframe\n    width=\"640\"\n    height=\"480\"\n    src=\"https://www.youtube.com/embed/UmX4kyB2wfg\"\n    frameborder=\"0\"\n    allow=\"autoplay; encrypted-media\"\n    allowfullscreen\n>\n</iframe>"
+  "body": "[![Video](http://img.youtube.com/vi/gFQhuULUDQc/0.jpg)](http://www.youtube.com/watch?v=gFQhuULUDQc)\n\n[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)\n\n"
 }
