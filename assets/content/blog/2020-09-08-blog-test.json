@@ -2,5 +2,5 @@
   "title": "Fuch",
   "date": "2020-09-08T06:00:00.000Z",
   "description": "Photographe de rue",
-  "body": "[![Video](http://img.youtube.com/vi/gFQhuULUDQc/0.jpg)](http://www.youtube.com/watch?v=gFQhuULUDQc)\n\n\n"
+  "body": "[![Video](http://img.youtube.com/vi/gFQhuULUDQc/0.jpg)](http://www.youtube.com/watch?v=gFQhuULUDQc)\n\n\n## YouTube with react-youtube\n\nimport YouTube from \"react-youtube\";\n\n<p>\n  <YouTube videoId={\"2g811Eo7K8U\"} containerClassName={\"youtube-container\"} />\n</p>\n\n\n"
 }
